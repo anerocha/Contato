@@ -1,6 +1,6 @@
 
 # Formulário de Contato Responsivo
-![Captura de Tela](imagem/login.PNG)
+![Captura de Tela](image/login.PNG)
 
 Este projeto é um formulário de contato moderno e responsivo para páginas da web, baseado em uma videoaula do canal **True Coder**. O formulário é projetado para ser interativo e visualmente atraente, proporcionando uma experiência de usuário envolvente.
 
